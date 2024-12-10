@@ -1,0 +1,21 @@
+[{
+  "id": 1,
+  "degree": "Certificado en Desarrollo Web",
+  "university": "La Universidad Autonoma Tomas Frias",
+  "timePeriod": "Junio ​​2024 – Septiembre 2024",
+  "img": "images/school.png"
+},
+{
+  "id": 2,
+  "degree": "Maestría en Ingenieria de Software",
+  "university": "Carrera de Ingenieria Informatica 'UATF'",
+  "timePeriod": "Agosto 2021 - Mayo 2024",
+  "img": "images/carrera.png"
+},
+{
+  "id": 3,
+  "degree": "Licenciatura en Ecología y Biología Evolutiva",
+  "university": "La Universidad de Texas en El Paso",
+  "timePeriod": "Agosto 2009 - Mayo 2014",
+  "img": "images/pick.png"
+}]

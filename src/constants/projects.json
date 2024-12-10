@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "title": "Git Me There",
+    "description": "Git Me There es una aplicación web fácil de usar, diseñada con HTML, CSS, JavaScript y que aprovecha el poder de las API de terceros. Esta aplicación sirve como una solución integral para planificar la logística de transporte para los próximos viajes dentro de cualquier ciudad de EE. UU. Al ingresar su destino, los usuarios obtienen puntajes de caminata y ciclismo, así como una lista de restaurantes cercanos. Para los destinos con un puntaje de caminata por debajo de 50, la aplicación presenta convenientemente una opción para reservar un viaje en Uber, lo que garantiza una experiencia de viaje sin esfuerzo.",
+    "thumbnail": "projects/git_me_there.png",
+    "deployed": "https://missatrox44.github.io/git-me-there",
+    "github": "https://github.com/missatrox44/git-me-there",
+    "date": "Julio de 2022"
+  },
+  {
+    "id": "2",
+    "title": "Fact or Fiction",
+    "description": "Fact or Fiction es una aplicación dinámica y completa que ofrece a los usuarios una experiencia de juego atractiva. El juego consiste en discernir si las leyes o los titulares dados son auténticos o inventados. El proyecto, desarrollado con Handlebars.js, Express.js y Sequelize, emplea Bootstrap para el diseño, lo que garantiza una interfaz de usuario elegante e intuitiva.",
+    "thumbnail": "projects/fact_or_fiction.png",
+    "github": "https://github.com/missatrox44/Fact-Fiction",
+    "deployed": "https://factorfiction.herokuapp.com",
+    "date": "Agosto de 2022"
+  },
+  {
+    "id": "3",
+    "title": "Baes",
+    "description": "Baes es una aplicación integral desarrollada sobre la pila MERN, diseñada con el objetivo de mejorar las relaciones personales. Permite a los usuarios mantener y gestionar información crucial sobre sus contactos importantes. Con Baes, los usuarios pueden crear una cuenta, modificar sus perfiles, forjar conexiones y registrar notas personalizadas sobre sus interacciones y relaciones.",
+    "thumbnail": "projects/baes.png",
+    "github": "https://github.com/missatrox44/baesii",
+    "deployed": "https://loversnotfighters.vercel.app/",
+    "date": "Septiembre de 2022"
+  },
+  {
+    "id": "4",
+    "title": "Cleaning Page",
+    "description": "El sitio tiene como objetivo principal presentar la empresa Labordequipo y sus servicios integrados de limpieza y desinfección, mantenimiento técnico, y cuidado de jardines y piscinas. Está dirigida a personas y empresas que necesitan servicios de mantenimiento para sus espacios, garantizando un entorno limpio, seguro y bien cuidado.",
+    "thumbnail": "projects/Cleaning-page.png",
+    "github": "https://github.com/AngelEroxis/Cleaning-page",
+    "deployed": "https://angeleroxis.github.io/Cleaning-page/",
+    "date": "Septiembre 2024"
+  },
+  {
+    "id": "5",
+    "title": "OHS Broncho Band",
+    "description": "Este proyecto implicó una reestructuración integral del sitio web de la Odessa High School Broncho Band. Se rediseñó para que respondiera a dispositivos móviles, al mismo tiempo que se actualizaron las imágenes y los enlaces para una experiencia más atractiva y fácil de usar. Se agregaron páginas nuevas, trabajando en estrecha colaboración con el director de la banda para garantizar que el diseño final reflejara su visión y representara fielmente los valores de la OHS Broncho Band. El sitio web se diseñó de manera experta con herramientas de WiX y continúa siendo un trabajo en progreso, que refleja el espíritu en constante evolución del programa de la banda.",
+    "thumbnail": "projects/odessa_band_screenshot.png",
+    "deployed": "https://www.odessaband.org/",
+    "date": "Octubre de 2022"
+  },
+  {
+    "id": "6",
+    "title": "Cleaning Page V2",
+    "description": "El propósito sigue siendo el mismo: proporcionar información sobre los servicios de la empresa Labordequipo, especializada en limpieza, mantenimiento técnico, y jardinería para comunidades de vecinos, oficinas y comercios. Usar React en lugar de HTML y JavaScript tradicional ofrece beneficios de mayor rendimiento, interactividad y facilidad para gestionar el estado de la página.",
+    "thumbnail": "projects/Cleaning-page.png",
+    "github": "https://github.com/AngelEroxis/2doParcialINF631.git",
+    "deployed": "https://cosmic-gnome-4fc624.netlify.app/",
+    "date": "Noviembre 2024"
+  },
+  {
+    "id": "7",
+    "title": "Pomodoro Timer",
+    "description": "Fruto de un desafío dinámico de programación en parejas de una semana de duración, organizado por Chingu. Creada por dos entusiastas de la eficiencia, nuestra aplicación le da nueva vida a la venerada técnica Pomodoro que incorporamos con pasión a nuestras rutinas diarias. Inspirándonos en ella y añadiendo nuestro estilo, no solo hemos clonado una aplicación popular, sino que la hemos mejorado con un \"Modo de desarrollador\" único. Este modo rápido avanza a toda velocidad a través del tiempo, lo que permite a los usuarios experimentar rápidamente las funcionalidades. Mejore sus ciclos de productividad con el temporizador Pomodoro y observe la gestión del tiempo desde una perspectiva completamente nueva.",
+    "thumbnail": "projects/pomodoro_timer.png",
+    "github": "https://github.com/missatrox44/pomodoro-clock",
+    "deployed": "https://missatrox44.github.io/pomodoro-clock/",
+    "date": "Marzo de 2023"
+  },
+  {
+    "id": "8",
+    "title": "Love Thy Selfie",
+    "description": "Love Thy Selfie es una aplicación React intuitiva y diseñada para dispositivos móviles para transformar digitalmente un negocio local de fotomatón. Esta plataforma, que encarna el espíritu de 'Love Thy Selfie', ofrece a los usuarios una descripción general completa de los diversos servicios que se brindan, incluidos ejemplos de imágenes vívidas y reseñas auténticas de clientes. También muestra las áreas geográficas de servicio para ayudar a los clientes a comprender su alcance. Una de las características clave es un formulario de contacto perfectamente integrado con tecnología de Email.js, que permite a los clientes consultar fácilmente sobre oportunidades de reserva. Con su interfaz fácil de usar y diseño responsivo, el sitio web de Love Thy Selfie pone de manera efectiva la esencia única de la experiencia del fotomatón en línea y al alcance de los clientes potenciales.",
+    "thumbnail": "projects/love_thy_selfie.png",
+    "github": "https://github.com/missatrox44/love-thy-selfie",
+    "deployed": "https://www.lovethyselfiephotobooth.com/",
+    "date": "Mayo 2023"
+  },
+  {
+    "id": "9",
+    "title": "Server Rotation",
+    "description": "Crab City Server Rotation es una solución moderna y eficiente diseñada para optimizar las rotaciones de mesas en un restaurante local. Inicialmente, el restaurante administraba las rotaciones mediante un sistema de pizarra manual que resultó ser un desafío durante las horas pico. Para brindar una solución más optimizada, mis colegas y yo desarrollamos esta aplicación web React. En esencia, la aplicación aprovecha las capacidades de la base de datos en tiempo real de Firebase para garantizar que los datos de rotación de mesas se administren en tiempo real. Esto garantiza que el personal tenga una vista actualizada de los estados de las mesas, lo que genera un mejor servicio al cliente y operaciones optimizadas. Además, incorporamos Tailwind CSS para garantizar que la interfaz de usuario sea intuitiva y estéticamente agradable. Si bien el enlace proporcionado muestra la demostración, la implementación real para el restaurante sigue siendo privada, completa con su propio inicio de sesión seguro.",
+    "thumbnail": "projects/crab-city.png",
+    "github": "https://github.com/missatrox44/server-rotation-crab-city",
+    "deployed": "https://crab-city.vercel.app/",
+    "date": "Octubre de 2023"
+  },
+  {
+    "id": "10",
+    "title": "SEB Events",
+    "description": "SEBevents, una exploración práctica de las complejidades del enrutamiento de Next.js, ejemplifica las traducciones de archivo a ruta, las rutas de slug y el enrutamiento de un solo parámetro. Al fusionar sin problemas los componentes de React con las estructuras de página de Next.js, la aplicación presenta un sistema intuitivo de navegación de eventos. Los usuarios pueden ver eventos destacados, profundizar en tarjetas de eventos detalladas o filtrar eventos por mes y año. Al incorporar el gancho useRouter, la aplicación facilita la navegación programática y decodifica sin esfuerzo los datos incrustados en URL. Con mecanismos robustos de manejo de errores, SEBevents promete una experiencia de usuario fluida.",
+    "thumbnail": "projects/seb-events.png",
+    "github": "https://github.com/missatrox44/nextjs-events",
+    "deployed": "https://seb-events.vercel.app/",
+    "date": "Octubre de 2023"
+  },
+  {
+    "id": "11",
+    "title": "PRUAB EXAMEN ",
+    "description": "Examen pruebita INF 631",
+    "thumbnail": "projects/gojo.jpg",
+    "github": "https://github.com/missatrox44/nextjs-events",
+    "deployed": "https://seb-events.vercel.app/",
+    "date": "Octubre de 2023"
+  }
+]

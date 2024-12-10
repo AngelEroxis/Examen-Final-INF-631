@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Profesor de robótica",
+    "company": "ECISD",
+    "description": "Enseñé seis secciones de robótica a estudiantes de séptimo y octavo grado. El plan de estudios incluía conceptos básicos de informática y robótica, utilizando lecciones de Code.org y LEGO Education. Involucré a los estudiantes en el aprendizaje práctico diario implementando el proceso de ingeniería y resolución de problemas. Mi experiencia con robots y placas de circuitos incluye Ozobots, BBC micro:bit y el set LEGO Spike Prime.",
+    "timePeriod": "Agosto 2021 – Julio 2022",
+    "img": "images/ecisd.png"
+  },
+  {
+    "id": "2",
+    "title": "Especialista en música elemental",
+    "company": "ECISD",
+    "description": "Me encargué de impartir clases semanales de música general para alumnos desde preescolar hasta quinto grado. También fui pionero en la creación de un club de guitarra y un club de piano después de clases, que se ofrecían a alumnos de cuarto y quinto grado. Además, fui embajador de innovación en el campus.",
+    "timePeriod": "Agosto 2019 – Julio 2021",
+    "img": "images/ecisd.png"
+  },
+  {
+    "id": "3",
+    "title": "Técnico AIM",
+    "company": "Southwest Conservation Corps",
+    "description": "Como técnico de evaluación de hábitats fluviales, en colaboración con la Oficina de Administración de Tierras (BLM), colaboré con la implementación de la iniciativa de evaluación, inventario y monitoreo acuático (AIM). Tomé muestras de doce arroyos y ríos al azar en todo Nuevo México, todos ubicados en tierras de la BLM. Los datos recopilados incluyeron muestreo de agua, identificación de especies de plantas invasoras y nativas, muestreo de taxones de EPT y medición de varias métricas relacionadas con los cuerpos de agua.",
+    "timePeriod": "Abril 2018 – Octubre 2018",
+    "img": "images/scc.png"
+  },
+  {
+    "id": "4",
+    "title": "Trabajador de senderos",
+    "company": "California Conservation Corps",
+    "description": "Seleccionado para la temporada 2017 en el Programa de Senderos de Campo Traviesa, mantuve senderos en Trinity Alps Wilderness para garantizar el acceso público seguro. Los proyectos que realicé incluyeron la construcción de muros de roca, barras de agua, escalones, tala de árboles y la pisada de nuevos senderos. Las herramientas que utilicé en estas tareas incluyeron una Pulaski, una sierra de corte transversal, tijerones, azadas Rogue, una McLeod y una pala. Además, realicé tareas de Patrulla de Cocina (KP) de manera rotativa, que implicaban preparar alimentos para un equipo de 17 miembros.",
+    "timePeriod": "Mayo 2017 – Septiembre 2017",
+    "img": "images/ccc.png"
+  },
+  {
+    "id": "5",
+    "title": "Asistente de enseñanza",
+    "company": "The University of Texas at El Paso",
+    "description": "Enseñé clases de laboratorio, entre ellas ecología, biología de organismos, zoología de invertebrados, biología general y biología de campo. Mis responsabilidades incluían preparar clases, organizar laboratorios, crear exámenes, calificar todas las tareas y organizar excursiones de campo con pernoctación. Además, trabajé en estrecha colaboración con profesores titulares para garantizar la correcta impartición del plan de estudios.",
+    "timePeriod": "Otoño 2014 - Primavera 2017",
+    "img": "images/utep.png"
+  },
+  {
+    "id": "6",
+    "title": "Investigador de campo graduado",
+    "company": "The University of Texas at El Paso",
+    "description": "Recolecté especímenes de saltamontes cada dos meses en lugares específicos del IMRS. También realicé estudios de plantas utilizando cuadrantes modificados y el método de transectos de cinturón. Además, ayudé a mis colegas a procesar, marcar y recapturar serpientes venenosas y no venenosas, así como una variedad de lagartijas.",
+    "timePeriod": "Otoño 2014 - Primavera 2017",
+    "img": "images/utep.png"
+  }
+]

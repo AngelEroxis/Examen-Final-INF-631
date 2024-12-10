@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "title": "Desarrollador de pila completa",
+    "company": "Reach Creative",
+    "description": "En mi puesto actual, me especializo en el desarrollo de componentes y páginas para aplicaciones web de vanguardia Next.js. Utilizo plataformas CMS sofisticadas, como Prismic y Sanity, para mejorar los proyectos de desarrollo web, asegurándome de que sean dinámicos y ricos en contenido. Mi función implica una estrecha colaboración con los equipos de diseño, centrándome en la integración perfecta de los conceptos visuales con las funcionalidades web. Esta sinergia entre el diseño y el desarrollo garantiza que los productos finales no solo cumplan, sino que superen las expectativas de los usuarios, proporcionando una experiencia de usuario intuitiva y atractiva.",
+    "timePeriod": "Enero de 2024 - Presente",
+    "img": "images/reach.jpg"
+  },
+  {
+    "id": "1",
+    "title": "Desarrollador de software junior",
+    "company": "IBG Software",
+    "description": "En IBG Software, lideré el desarrollo integral en un entorno ágil, centrándome en aplicaciones React y React Native impulsadas por TypeScript, Node.js y Express.js. Mi trabajo mejoró significativamente la eficiencia y la ejecución del proyecto. Mi uso estratégico de MongoDB y Firebase Firestore impulsó el rendimiento del backend. Redefiní las experiencias de los usuarios al integrar Firebase Authentication con Redux Saga, mejorando tanto la seguridad como la facilidad de uso. A través de Cypress, implementé protocolos de prueba de extremo a extremo, asegurando la calidad del software. Desarrollé API RESTful escalables para mejorar el rendimiento del sistema y documenté meticulosamente los procesos en Confluence, mejorando la colaboración en equipo. Al interactuar con las partes interesadas, alineé los productos con los objetivos comerciales, lo que aumentó la satisfacción. Mi gestión de las tareas del proyecto a través de Jira facilitó la colaboración y garantizó la finalización oportuna de los hitos.",
+    "timePeriod": "Noviembre 2022 – Enero 2024",
+    "img": "images/ibg.png"
+  },
+  {
+    "id": "2",
+    "title": "Desarrollador de software",
+    "company": "Chingu",
+    "description": "Durante el viaje número 41 de Chingu, nuestro equipo desarrolló una aplicación de planificación de viajes accesible centrada en la accesibilidad. En un sprint de una semana, mi socio y yo creamos una aplicación de reloj Pomodoro, que mejoró la colaboración, la gestión del tiempo y las habilidades de React a través de métodos ágiles.",
+    "timePeriod": "Octubre 2022 – Noviembre 2022 y Marzo 2023",
+    "img": "images/chingu.png"
+  }
+]
